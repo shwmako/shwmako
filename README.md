@@ -12,61 +12,46 @@
 I have special interest in design and user experience. I strongly believe that the visual aspect of a website or application is essential to attract and captivate users 🪼⋆.ೃ࿔*:･  
 
 
-## My Skill Set  
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
-
-### Backend  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-</div>
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/shwmako" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; border: none;" />
-</a>
-<a href="https://twitter.com/shwtskym" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; border: none;" />
-</a>
-<a href="https://instagram.com/shwmako" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px; border: none;" />
-</a>  
-</div>  
-  
-
-<br/>  
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/lh9tl6uc5d8mxg9lkwbrt1bnp">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lh9tl6uc5d8mxg9lkwbrt1bnp&count=5&unique=true" alt="Spotify recently played"  />
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://x.com/shwtskym" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
 ###
-
-<br/>  
-
-
-<br />
