@@ -7,8 +7,6 @@
   
 
 🍃 I am a Systems Development student at Idat, in the last cycle, I want to specialize in web and application development. `⎚⩊⎚´ -✧  
-  
-
 I have special interest in design and user experience. I strongly believe that the visual aspect of a website or application is essential to attract and captivate users 🪼⋆.ೃ࿔*:･  
 
 
