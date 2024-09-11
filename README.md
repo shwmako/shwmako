@@ -12,9 +12,6 @@
 I have special interest in design and user experience. I strongly believe that the visual aspect of a website or application is essential to attract and captivate users 🪼⋆.ೃ࿔*:･  
   
 
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -84,5 +81,3 @@ I have special interest in design and user experience. I strongly believe that t
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
