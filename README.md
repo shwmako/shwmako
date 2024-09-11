@@ -72,9 +72,7 @@ I have special interest in design and user experience. I strongly believe that t
 
 <br/>  
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<img src="https://raw.githubusercontent.com/shwmako/shwmako/output/snake.svg" alt="Snake animation" />
 
 ###
 
