@@ -72,9 +72,11 @@ I have special interest in design and user experience. I strongly believe that t
 
 <br/>  
 
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwmako&hide_border=true&layout=compact" align="left" />  
+###
 
 <br/>  
 
