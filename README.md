@@ -72,7 +72,13 @@ I have special interest in design and user experience. I strongly believe that t
 
 <br/>  
 
-<img src="https://raw.githubusercontent.com/shwmako/shwmako/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/lh9tl6uc5d8mxg9lkwbrt1bnp">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lh9tl6uc5d8mxg9lkwbrt1bnp&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
