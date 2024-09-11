@@ -47,7 +47,7 @@ I have special interest in design and user experience. I strongly believe that t
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px; border: none;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 <div align="center">
   <img src="https://i.pinimg.com/564x/9b/b3/cb/9bb3cbd1e850fd76321cb24b2a33553e.jpg" align="center" height="250" width="250" />
