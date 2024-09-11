@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="[https://64.media.tumblr.com/4fb2344d46c8fa98b2b0609b99547d45/00758923577b8a84-95/s2048x3072/b3b1391427f47270796d0705a620a19a0a87e2aa.jpg](https://64.media.tumblr.com/29166c58fa9dfa29be18b1d825bded0e/aa644147ab5211af-a9/s1280x1920/5d32772210f06f2037b184f980593c2a269faf89.jpg)" align="center" style="width: 100%" />
-</div>  
+<img src="https://64.media.tumblr.com/29166c58fa9dfa29be18b1d825bded0e/aa644147ab5211af-a9/s1280x1920/5d32772210f06f2037b184f980593c2a269faf89.jpg" align="center" style="width: 100%" />
+</div> 
   
 
 ## <div align="center">Hi, I'm Mako★ a future web designer ⭑.ᐟ</div>  
