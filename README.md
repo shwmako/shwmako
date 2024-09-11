@@ -59,9 +59,6 @@ I have special interest in design and user experience. I strongly believe that t
 
 </td></tr></table>  
 
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/shwmako" target="_blank">
